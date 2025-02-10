@@ -2,8 +2,8 @@
 
 ---
 | Pengguna dilarang untuk menjual belikan script kepada orang lain.
-| Dilarang mengklaim bahwa script dibuat oleh kamu (pengguna)
-| Mengubah isi script kode diperbolehkan dengan syarat harus memfork repository ini
+Dilarang mengklaim bahwa script dibuat oleh kamu (pengguna)
+Mengubah isi script kode diperbolehkan dengan syarat harus memfork repository ini
 ---
 
 Tutorial install ( VPS Source )
