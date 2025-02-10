@@ -1,7 +1,7 @@
 ## AutoBackup VPS to VPS | by ValareCloud
 
 ---
-| Pengguna dilarang untuk menjual belikan script kepada orang lain.
+Pengguna dilarang untuk menjual belikan script kepada orang lain.
 Dilarang mengklaim bahwa script dibuat oleh kamu (pengguna)
 Mengubah isi script kode diperbolehkan dengan syarat harus memfork repository ini
 ---
